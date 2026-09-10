@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jibonbarman1523-arch.github.io/jibon-sathi-website/sitemap.xml
